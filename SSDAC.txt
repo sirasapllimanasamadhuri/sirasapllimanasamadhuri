@@ -1,0 +1,58 @@
+*Installation of sugical volate protection:
+Surge voltage protection:
+Introduction:
+                  Transient surge voltages arise as a result of Lightning discharge, switching operations in
+electrical systems and electrostatic discharge. These surge voltages often destroy the
+electronic equipment to a large extent.
+
+PROTECTION OF SSDAC FROM SURGE VOLTAGES:
+	In order to prevent surge voltages from destroying the equipment, all the input lines of
+SSDACi.e. Power Supply (24V), Reset (48V) & both the Modem lines i.e. SSDACto SSDAC&
+SSDACto reset box is to be routed through surge voltage protection devices for effectively
+protecting the system.
+	These devices (4 numbers) are mounted in a box and supplied along with the system. One number of SVPD box is to be installed at each location and wired to the SSDAC.
+INSTALLATION PROCEDURE:-
+The SSDAC consists of the following equipments: -
+i. TX & Rx Coil Axle Detectors - 2.
+ii. SSDAC Counting Unit - 2 .
+iii. Vital Relay Box - 2 .
+iv. Reset Box - 1 . (Common resetting) or 2 . (Independent resetting)
+v. Surge Voltage Protection Device- 2.
+DETAILS FOR FIXING OF AXLE DETECTORS
+    i. The Axle detectors should be installed after Advance starter (LSS) signal post and Home(HS) signal post on UP and DN lines of Double line section for use in BPAC.
+    ii. The Axle detectors should be installed after Advance Starter Signal (LSS) Post for UP& DN
+Lines of Single Line Section for use in BPACs.
+   iii. In main Lines, loop lines, yard area the Axle detectors can be fixed just after the starter
+signal post of each line under monitoring of SSDAC.
+  iv. The Axle detectors separation between two sets of different SSDACsystems should be at
+least 2 meters away so as to avoid mutual interference.
+ v. The detectors have to be fixed on the clear spacing between two sleepers.
+  vi. It should be ensured that the rail is not badly worn out causing the wheel flanges to graze
+over the fittings.
+  vii. The design of the detector is suitable for 90R, 52Kg and 60Kg rails.
+  viii. The transmitter and Receiver coils are provided with 24/0.2 shielded cables of 10m
+lengths and have to be taken to location box directly without any loops.
+  ix. Transmitter and Receiver cables should run separately at a minimum separation of 400mm
+in different HDPEpipes. The cables have to be laid in the 40mm HDPEpipe for safety and
+buried underground below ballast at the depth of approx. 0.3mts.
+FIXING OF AXLE DETECTORS (TRANSMITTER AND RECEIVER COIL):-
+   i. The Axle detectors are to be fixed on web of the rail at the drilled holes by means
+of M12 bolts & nuts with spring washers and check nuts. (NOTE: the torque
+wrench, specified in the checklist, should be used for tightening of nuts and bolts.)
+  ii. M12 x 100mm - 3. bolts& nuts are used for fixing the axle detectors. 2nd nut is
+with Nylon washer and is to be used on each bolt.
+  iii. Transmitter coil assembly (21 KHz & 23 KHz) should be fixed on the outer side of
+rail. The transmitter assembly should sit properly on the web of rail.
+  iv. Receiver coil assembly (21 KHz & 23 KHz) should be fixed on the inner side of rail. The receiver assembly should be placed properly on the web of rail.
+  v. It should be ensured that transmitter coil assembly and receiver coil assembly are
+facing opposite to each other (21 KHzTXto 21 KHz Rx and 23 KHzTXto 23 KHz Rx)
+on either side of rail with centre line of coils matching each other.
+  vi. The TX coil cables 21 KHz & 23 KHz are taken together in one HDPE pipe to the
+location Box. Similarly both 21 KHz & 23 KHz Rx coils are taken together but
+separately from TX coil cables to the location box.
+  vii. The 1st set of Transmitter and Receiver Coils is made of 21 KHz signal and 2nd set is made of 23 KHz signal at each Location.
+NOTE: 
+            Both at the Entry & Exit of the section, the axle detectors should be fixed on same
+rail i.e. either on left side or on right side rail of the track. This should not be
+installed with 1st set on left rail and 2nd set on right rail of the track at Entry & Exit
+of the section. This is for correct installation of axle detector
